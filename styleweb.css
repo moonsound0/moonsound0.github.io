@@ -1,0 +1,35 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+body{
+  background-color:#252630;}
+#logo{
+  width:100px;
+  height: auto ;
+  margin-top:-5px;
+}
+#title{
+  font-size:25px;
+  width:1000px ; 
+  height: 500px ;
+  color: white;
+  margin-left:90px;
+  margin-top:-88px;
+}
+#footer{
+  background-color:#2A2A2E;
+  color: #858588;
+  width:100%;
+  margin-top:200px;
+  font-size:15px;
+  text-align: center;
+}
+#telegram{
+  color:#FFFFFF;
+  font-size:15px;
+}
+#telegramlogo{
+  width:20px;
+}
