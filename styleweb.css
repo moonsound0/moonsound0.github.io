@@ -33,3 +33,35 @@ body{
 #telegramlogo{
   width:20px;
 }
+#configs{
+  width:330px;
+  height: auto;
+  position: relative;
+  top: -400px;
+  left: 30px;
+}
+#titlep{
+  color: #FFFFFF;
+  font-size: 20px;
+  margin-top: -400px;
+}
+#wa{
+  background-color:#000000;
+  color: #FF0000;
+  padding: 10px;
+  margin-top:20px;
+}
+#v2rayd{
+  width: 300px;
+  height: auto;
+  margin-left: 45px;
+  margin-top: 100px;
+}
+#config{
+  background-color: #FFFFFF;
+  color: #007D2C;
+  width: 100px;
+  height: 50px;
+  margin-left: 150px;
+  margin-top: 50px;
+}
